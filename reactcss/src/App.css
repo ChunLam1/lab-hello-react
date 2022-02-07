@@ -1,0 +1,45 @@
+.App {
+  margin: 0;
+  border: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.component {
+  background-color: rgb(43, 43, 70);
+  border: 1px solid;
+  height: 60vh;
+  margin: 28px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: inherit;
+}
+h1 {
+  color: rgba(255, 255, 255, 0.829);
+  margin-bottom: 0px;
+}
+p {
+  margin-top: 0px;
+}
+.text {
+  margin: 80px;
+  color: rgba(255, 255, 255, 0.829);
+}
+
+button {
+  margin-top: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 18px;
+  background-color: rgba(255, 255, 255, 0.87);
+  color: rgb(43, 43, 70);
+}
+.botContainer {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+
+
